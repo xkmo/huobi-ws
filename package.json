@@ -1,0 +1,27 @@
+{
+  "name": "huobi-ws",
+  "version": "0.1.0",
+  "description": "Huobi WebSocket API wrapper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xkmo/huobi-ws.git"
+  },
+  "keywords": [
+    "huobi",
+    "btc",
+    "bitcoin"
+  ],
+  "author": "xkmo",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io-client": "^0.9.16"
+  },
+  "devDependencies": {
+    "should": "4.3.1"
+  },
+  "readmeFilename": "README.md"
+}
